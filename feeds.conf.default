@@ -10,3 +10,4 @@ src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
+src-git nas https://github.com/linkease/nas-packages
